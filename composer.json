@@ -1,5 +1,8 @@
 {
     "name": "frontkom/fs_graphql_client",
     "description": "GraphQL client to use towards the GraphQL FS API",
-    "license": "MIT"
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "Frontkom\\GraphqlClient\\": "src/" }
+    }
 }
