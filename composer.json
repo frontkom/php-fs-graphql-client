@@ -1,0 +1,5 @@
+{
+    "name": "frontkom/fs_graphql_client",
+    "description": "GraphQL client to use towards the GraphQL FS API",
+    "license": "MIT"
+}
