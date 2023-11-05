@@ -10,4 +10,9 @@ class Query extends GraphQLQuery
     {
         return $this->fieldName;
     }
+
+    public function getArguments() : array
+    {
+        return $this->arguments;
+    }
 }
