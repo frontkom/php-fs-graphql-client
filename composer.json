@@ -4,5 +4,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": { "Frontkom\\GraphqlClient\\": "src/" }
+    },
+    "require": {
+        "gmostafa/php-graphql-client": "^1.9"
     }
 }
